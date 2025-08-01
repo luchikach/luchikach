@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/oluchi-kachikwu/">Oluchi Kachikwu</a>'s IT and Cybersecurity Project Portfolio 🔐
+Cybersecurity professional with expertise in threat intel, AI-powered threat detection, incident response, and vulnerability management
 https://www.linkedin.com/in/oluchi-kachikwu/
-Cybersecurity professional with expertise in threat intel, AI-powered threat detection, incident response, and vulnerability management.
 
 Vulnerability Management Projects
 
